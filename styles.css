@@ -1,0 +1,147 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+:root{
+  --primary-color: #022c22;
+  --secondary-color:#f0fdfa;
+}
+
+html * {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+body{
+  margin:0;
+  padding:0;
+  height:100vh;
+  width:100vw;
+  color: #f0fdfa;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.form-container{
+  height:550px;
+  text-align:center;
+  display:flex;
+  width:auto;
+  align-items:center;
+  justify-content:flex-end;
+  width: 1200px;
+  background-color: #022c22;
+
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12);    
+  transition: all 0.3s;
+}
+.form-container:hover{
+  transform: scale(1.01) perspective(1px);
+}
+
+
+.form-container > form{
+  display:flex;
+  flex: 1 1 0px;
+  width:100%;
+  flex-direction:column;
+  gap:35px;
+  align-items:center;
+  justify-content:center;
+}
+.submit-btn{
+  width:35%;
+  font-size:medium;
+  background-color:transparent;
+  color:var(--secondary-color);
+  border:none;
+  transition:all 0.3s;
+}
+.submit-btn:hover{
+  background-color: #f0fdfa;
+  color:var(--primary-color);
+  font-weight:bold;
+  outline:none;
+  transform: scale(1.08) perspective(1px);
+
+}
+
+img{
+  height:100%;
+  width:auto;
+  flex: 1 1 0px;
+}
+.username-container, .phone-container, .email-container, .group-container, .success-container{
+  position:relative;
+  width:50%;
+}
+
+label{
+  position: absolute;
+  left:-10px;
+  top:-15px;
+  z-index:1;
+  background-color:var(--primary-color);
+  padding-right:5%;
+}
+input, select{
+  background:transparent;
+  border:none;
+  height:30px;
+  outline: white solid;
+  font-size:medium;
+  color:var(--secondary-color);
+  padding-left:3%;
+  border-radius:4px;
+  transition: all 0.3s;
+  width:100%;
+}
+input:focus{
+  outline:green solid;
+  transform: scale(1.03) perspective(1px);
+
+}
+
+.mymouse{
+  z-index:2;
+  position:absolute;
+  height:30px;
+  width:30px;
+  background-color:transparent;
+  border-radius:50%;
+  outline: black solid;
+  transform: translateX(-50%) translateY(-50%);
+  pointer-events: none;
+  transition: all 100ms ease-out;
+}
+
+#progress-wrp {
+    border: 1px solid #0099CC;
+    padding: 1px;
+    position: relative;
+    height: 30px;
+    border-radius: 3px;
+    margin: 10px;
+    text-align: left;
+    background: #fff;
+    box-shadow: inset 1px 3px 6px rgba(0, 0, 0, 0.12);
+}
+
+#progress-wrp .progress-bar {
+    height: 100%;
+    border-radius: 3px;
+    background-color: #0099CC;
+    width: 0;
+    box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.11);
+}
+
+#progress-wrp .status {
+    top: 3px;
+    left: 50%;
+    position: absolute;
+    display: inline-block;
+    color: #000000;
+}
