@@ -74,7 +74,7 @@ img{
   width:auto;
   flex: 1 1 0px;
 }
-.username-container, .phone-container, .email-container, .group-container, .success-container{
+.username-container, .phone-container, .email-container, .place-container, .group-container, .success-container{
   position:relative;
   width:50%;
 }
@@ -144,4 +144,9 @@ input:focus{
     position: absolute;
     display: inline-block;
     color: #000000;
+}
+
+option {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
 }
