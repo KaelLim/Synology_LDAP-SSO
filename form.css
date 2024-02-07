@@ -1,0 +1,118 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+.login-container, .review-container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #1a73e8; /* Google 藍色 */
+}
+
+/* 表格樣式 */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+.user {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.user:last-child {
+    border-bottom: none;
+}
+
+button {
+    background-color: #1a73e8; /* Google 藍色 */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #0f62cd;
+}
+
+@media (max-width: 600px) {
+    .login-container, .review-container {
+        width: 100%;
+        box-shadow: none;
+        border-radius: 0;
+    }
+    table {
+        display: block;
+        overflow-x: auto; /* 為小屏幕添加水平滾動 */
+    }
+}
+
+/* 模態框（背景） */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed;
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* 模態框內容 */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* 關閉按鈕 */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
