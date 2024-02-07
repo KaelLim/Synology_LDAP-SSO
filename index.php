@@ -10,7 +10,7 @@
 <body>
   <div class="form-container">
     <form class="fr" action="register.php" method="post">
-      <h1 class="elem">社區網2.0<br>LDAP 帳號註冊</h1>
+      <h1 class="elem"><br>北部雲帳號註冊</h1>
   
       <div class="username-container">
         <label for='username'>用戶名:</label>
@@ -27,12 +27,23 @@
         <input type="email" id="email" name="email" class="elem" required>
       </div>
 
+      <div class='place-container'>
+        <label for='place'>地區:</label>
+        <select id="place" name="place" class="elem">
+          <option value="北一">北一</option>
+          <option value="北二">北二</option>
+          <option value="北三">北三</option>
+          <option value="桃園">桃園</option>
+          <option value="新竹">新竹</option>
+        </select>
+      </div>
+
       <div class='group-container'>
         <label for='group'>群組:</label>
         <select id="group" name="group" class="elem">
-          <option value="A">A</option>
-          <option value="B">B</option>
-          <option value="C">C</option>
+          <option value="合心管理員">合心管理員</option>
+          <option value="和氣管理員">和氣管理員</option>
+          <option value="出班志工">出班志工</option>
         </select>
       </div>
 
