@@ -1,0 +1,6 @@
+{
+  ldap_server	"ldaps://taipei-3in1-nas.direct.quickconnect.to/"
+  ldap_user_dn	"uid=root,cn=users,dc=123456789,dc=com"
+  ldap_password	"XXXXXXXX"
+  ldap_base_dn	"dc=123456789,dc=com"
+}
