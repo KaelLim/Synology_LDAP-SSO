@@ -7,6 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         "username" => $_POST['username'],
         "phone" => $_POST['phone'],
         "email" => $_POST['email'],
+        "place" => $_POST['place'],
         "group" => $_POST['group']
     );
 
@@ -52,6 +53,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <?php if ($message): ?>
             <h1><?php echo $message; ?></h1>
         <?php endif; ?>
+        <h2>務必記得</h2>
+        <p>用戶登入為用戶名稱+電話號碼<br/>密碼為tc+電話號碼</p>
+        <p>耐心等候審查人員回覆，謝謝</p>
       </div> 
       
     </form>
