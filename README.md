@@ -69,6 +69,14 @@ function addUserToGroup($ldapconn, $userDn, $groupDn, $uniqueUsername) {
 
 這個陣列通常用於與`ldap_add`函數一起，將新用戶添加到LDAP目錄中。這些信息幫助LDAP服務器理解和存儲有關用戶的關鍵細節，如身份認證、聯繫方式和帳戶政策等。
 
+# Synology SSO Server 設定
+
+本文檔旨在指導開發者如何設定SSO 及 取得 app id
+
+## 前提條件
+
+-LDAP Server設定完成
+
 # 整合 Synology SSO 至您的應用
 
 本文檔旨在指導開發者如何在他們的應用中整合 Synology 單一登入（SSO）服務，以便使用者能夠通過 Synology DSM 的認證來登入應用。
@@ -117,3 +125,6 @@ function authCallback(response) {
 ## 結果
 通過以上步驟，Synology SSO 服務整合到應用中，點擊SSO登入結果如下
 ![1](https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/05e8a10d-03d5-4e7d-bf68-4dc2b0920500/Medium "結果圖示")
+
+## 遇到的問題
+目前還不清楚redirect_uri怎麼設定 :disappointed_relieved:。若有任何大佬能提供教學會更好
