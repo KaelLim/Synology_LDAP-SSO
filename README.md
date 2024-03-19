@@ -68,3 +68,52 @@ function addUserToGroup($ldapconn, $userDn, $groupDn, $uniqueUsername) {
 - `shadowFlag`: 用于控制影子密码的各种标志，这里设置为0。
 
 這個陣列通常用於與`ldap_add`函數一起，將新用戶添加到LDAP目錄中。這些信息幫助LDAP服務器理解和存儲有關用戶的關鍵細節，如身份認證、聯繫方式和帳戶政策等。
+
+# 整合 Synology SSO 至您的應用
+
+本文檔旨在指導開發者如何在他們的應用中整合 Synology 單一登入（SSO）服務，以便使用者能夠通過 Synology DSM 的認證來登入應用。
+
+## 前提條件
+
+- 已在您的網絡環境中安裝 Synology DiskStation Manager (DSM)。
+- 在 DSM 中已安裝並啟用 SSO Server。
+
+## 開始之前
+
+在開始整合過程之前，請確保您已經在 DSM 上成功安裝了 SSO Server。安裝 SSO Server 後，您將自動擁有 JavaScript SDK，該 SDK 位於您的 DSM 服務器上，可通過以下 URL 訪問：https://yourDSM:5000/webman/sso/synoSSO-1.0.0.js
+
+請將 `yourDSM` 替換成您的 DSM 服務器的地址。
+
+## 步驟 1：初始化 SDK
+
+在您的 HTML 文件或 Web 應用中引入 SDK：
+
+```html
+<script type="text/javascript" src="https://yourDSM:5000/webman/sso/synoSSO-1.0.0.js"></script>
+```
+## 步驟 2：處理登入
+在初始化 SDK 之後，您可以使用 SYNOSSO.login 方法來觸發登入流程：
+```javascript
+SYNOSSO.login();
+```
+這將會打開一個新的窗口，引導用戶完成 DSM 的登入流程。
+
+
+## 步驟 3：處理回調
+登入成功或失敗後，SDK 將會呼叫您在初始化時提供的 authCallback 函數。您需要在這個函數中處理登入後的邏輯：
+
+```javascript
+function authCallback(response) {
+    if(response.status === 'login') {
+        // 處理登入成功的情況
+        console.log('登入成功，Access Token:', response.access_token);
+    } else {
+        // 處理登入失敗或未登入的情況
+        console.log('登入狀態:', response.status);
+    }
+}
+```
+
+## 結果
+通過以上步驟，Synology SSO 服務整合到應用中，點擊SSO登入結果如下
+![1](https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/05e8a10d-03d5-4e7d-bf68-4dc2b0920500/Medium "結果圖示")
