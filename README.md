@@ -75,7 +75,27 @@ function addUserToGroup($ldapconn, $userDn, $groupDn, $uniqueUsername) {
 
 ## 前提條件
 
--LDAP Server設定完成
+- LDAP Server設定完成
+- `網域/LDAP`連線狀態已連線 (Synology LDAP Server)
+
+## 步驟 1：安裝 SSO Server
+
+前往套件中心，在搜尋中輸入SSO Server (它沒有中文名稱)，點擊安裝套件，需同意的按鈕都給他按下去。
+
+## 步驟 2：設定 SSO Server
+
+![1](https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/689de628-34df-48f8-86a1-2340835e9c00/Desktop "結果圖示")
+1. 前往SSO Server
+2. 一般設定 > 登入設定中點擊`設定`
+3. 在網頁服務中別名請自行設定 (範例為SSO-signin)
+4. SSO Server 中，將帳行類別設定為`網域/LDAP`，`yourDSM/SSO-sign`設定在伺服器url
+
+![2](https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/1c393114-efb9-4dc1-1b55-9a8c0d1fd800/Desktop "結果圖示")
+
+5. 選擇 `Synology SSO` 並點擊`下一步`
+6. 應用程式名稱可隨意，自己知道就好。重新導向URI以個人開發的註冊網址為主，並點擊`完成`
+7. 新增完成後會提供應用程式ID (App ID)
+8. 取得App ID 後就能進入下個章節
 
 # 整合 Synology SSO 至您的應用
 
