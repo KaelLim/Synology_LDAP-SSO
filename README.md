@@ -144,7 +144,7 @@ function authCallback(response) {
 
 ## 結果
 通過以上步驟，Synology SSO 服務整合到應用中，點擊SSO登入結果如下
-![1](https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/05e8a10d-03d5-4e7d-bf68-4dc2b0920500/Medium "結果圖示")
+![3](https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/8ff20108-065f-4e65-63e9-2d2488cc9500/Desktop "結果圖示")
 
 ## 注意事項
 Synology SSO 服務使用`網域/LDAP`，所以登入帳號務必使用 `LDAP` 內，非Synology DSM 帳號。個人之前不斷使用DSM帳號登入，還以為SSO出bug了，一直不提供我權限😅:。
