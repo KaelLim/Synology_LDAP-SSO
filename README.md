@@ -49,23 +49,41 @@ function addUserToGroup($ldapconn, $userDn, $groupDn, $uniqueUsername) {
 
 在這段PHP代碼中，我們創建了一個名為`$info`的陣列，用於存儲將要添加到LDAP目錄中的用戶信息。這個陣列包含了多個關鍵字段，這些字段對於LDAP中的用戶來說是必須的或者推薦的。以下是這些字段的具體解釋：
 
-- `cn`: Common Name，這裡使用唯一的用戶名。
-- `uid`: User ID，同樣使用唯一的用戶名。
-- `sn`: Surname，使用用戶的用戶名。
-- `uidNumber`: 用戶的唯一ID號碼。
-- `gidNumber`: Group ID Number，這裡設置為一個固定值"1000001"。
-- `loginShell`: 用戶的登錄shell，這裡設置為`/bin/sh`。
-- `homeDirectory`: 用戶的家目錄路徑，根據唯一用戶名動態生成。
-- `mail`: 用戶的電子郵件地址。
-- `userPassword`: 用戶的密碼，這裡使用SHA-1加密算法進行加密，並且以`{SHA}`作為前綴。
-- `objectclass`: 定義了用戶在LDAP中的對象類別，包括多個類別以支持廣泛的屬性和行為。
-- `shadowLastChange`: 密碼最後一次更改的時間，使用自1970年1月1日以來的天數表示。
-- `shadowMin`: 密碼最小壽命，設為0表示無限制。
-- `shadowMax`: 密碼最大壽命，這裡設置為99999天。
-- `shadowWarning`: 密碼到期前的警告天數，設置為7天。
-- `shadowExpire`: 账户过期时间，-1表示永不过期。
-- `shadowInactive`: 账户在密码过期后仍可用的天数，0表示立即失效。
-- `shadowFlag`: 用于控制影子密码的各种标志，这里设置为0。
+- **apple-birthday**: 用戶的生日。
+- **apple-generateduid**: Apple生成的唯一識別碼。
+- **authAuthority**: 認證權威。
+- **cn (Common Name)**: 常見名稱，這裡指的是用戶名或群組名。
+- **departmentNumber**: 部門編號。
+- **displayName**: 顯示名稱。
+- **employeeNumber**: 員工編號。
+- **employeeType**: 員工類型。
+- **gidNumber**: 群組識別碼。
+- **homeDirectory**: 主目錄路徑。
+- **homePhone**: 家庭電話。
+- **loginShell**: 登錄Shell。
+- **memberOf**: 成員所屬的群組DN列表。
+- **mobile**: 手機號碼。
+- **objectClass**: 物件類別。
+- **postalAddress**: 郵遞地址。
+- **sambaAcctFlags**: Samba帳戶標誌。
+- **sambaLMPassword**: Samba LM密碼。
+- **sambaNTPassword**: Samba NT密碼。
+- **sambaPasswordHistory**: Samba密碼歷史。
+- **sambaPwdLastSet**: Samba密碼最後設定時間。
+- **sambaSID**: Samba安全識別碼(SID)。
+- **shadowExpire**: 密碼過期時間。
+- **shadowFlag**: 影子標誌。
+- **shadowInactive**: 密碼非活動期限。
+- **shadowLastChange**: 最後一次密碼變更時間。
+- **shadowMax**: 密碼最大使用期限。
+- **shadowMin**: 密碼最小使用期限。
+- **shadowWarning**: 密碼過期前警告時間。
+- **sn (Surname)**: 姓氏。
+- **telephoneNumber**: 電話號碼。
+- **title**: 職稱。
+- **uid (User ID)**: 用戶識別碼。
+- **uidNumber**: 用戶數字識別碼。
+- **userPassword**: 用戶密碼。
 
 這個陣列通常用於與`ldap_add`函數一起，將新用戶添加到LDAP目錄中。這些信息幫助LDAP服務器理解和存儲有關用戶的關鍵細節，如身份認證、聯繫方式和帳戶政策等。
 
