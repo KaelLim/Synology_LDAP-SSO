@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>慈濟志工雲-北區</title>
-    <script type="text/javascript" src="https://taipei-3in1-nas.synology.me:6322/webman/sso/synoSSO-1.0.0.js"></script>
+    <script type="text/javascript" src="https://sample.me:6322/webman/sso/synoSSO-1.0.0.js"></script>
 </head>
 <body>
     <div class="header">
