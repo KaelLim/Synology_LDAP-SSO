@@ -1,6 +1,6 @@
 {
-    "ldap_server": "ldap://taipei-3in1-nas.synology.me/",
-    "ldap_user_dn": "uid=root,cn=users,dc=tcf,dc=com",
-    "ldap_password": "pass1234",
-    "ldap_base_dn": "dc=tcf,dc=com"
+    "ldap_server": "ldaps://sample.synology.me/",
+    "ldap_user_dn": "uid=root,cn=users,dc=sample,dc=com",
+    "ldap_password": "xxxx",
+    "ldap_base_dn": "dc=sample,dc=com"
 }
