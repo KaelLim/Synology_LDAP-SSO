@@ -1,0 +1,3666 @@
+[
+    {
+        "user_id": 10000,
+        "username": "Kael",
+        "phone": "0978624411",
+        "email": "kaelsohappy1@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10001,
+        "username": "fakeadmin",
+        "phone": "0978624475",
+        "email": "fakeadmin@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10002,
+        "username": "\u6797\u50d1\u5d27",
+        "phone": "0978624475",
+        "email": "test@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10003,
+        "username": "test2",
+        "phone": "0912345678",
+        "email": "ittzuchiapi@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10004,
+        "username": "\u5c0f\u6148",
+        "phone": "0978123456",
+        "email": "littlechi@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10006,
+        "username": "\u5c0f\u85cd",
+        "phone": "0978624475",
+        "email": "littleblue11@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10007,
+        "username": "phoneix",
+        "phone": "0922247256",
+        "email": "phoenix@tzuchi.org.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10008,
+        "username": "\u5b8b\u660e\u7ae0",
+        "phone": "0928600707",
+        "email": "mjsong2116@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10009,
+        "username": "\u5c0f\u7d05",
+        "phone": "0978123456",
+        "email": "littlered@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10010,
+        "username": "\u9ec3\u9cf3\u6846",
+        "phone": "0919297027",
+        "email": "kitty921921@hotmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10011,
+        "username": "\u8521\u9e97\u745c",
+        "phone": "0916150250",
+        "email": "cindy0428168@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10012,
+        "username": "\u5f35\u79cb\u71d5",
+        "phone": "0910112270",
+        "email": "chang5180@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10013,
+        "username": "\u8521\u6587\u7d0b",
+        "phone": "0952490191",
+        "email": "ing.diamond@hotmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10014,
+        "username": "\u856d\u60e0\u73b2",
+        "phone": "0912420280",
+        "email": "linlin0820@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10015,
+        "username": "\u9127\u9e97\u5a1f",
+        "phone": "0939708275",
+        "email": "angela708275@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10016,
+        "username": "\u6881\u96c5\u9594",
+        "phone": "0912509317",
+        "email": "m9006022@msn.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10017,
+        "username": "\u5f6d\u6dd1\u59ec",
+        "phone": "0921062537",
+        "email": "shuchi1215@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10018,
+        "username": "\u6797\u4f69\u81fb",
+        "phone": "0952547652",
+        "email": "lin899450@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10019,
+        "username": "\u6c5f\u5f65\u8c6a",
+        "phone": "0932360471",
+        "email": "cc0932360471@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10020,
+        "username": "\u738b\u5e78\u5ac3",
+        "phone": "0931789165",
+        "email": "wpaggy@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10021,
+        "username": "\u9ec3\u9e97\u82ac",
+        "phone": "0925696980",
+        "email": "ivory.hg@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10022,
+        "username": "\u9673\u582f\u7147",
+        "phone": "0933831358",
+        "email": "yao0301@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10024,
+        "username": "vincent ",
+        "phone": "0932156667",
+        "email": "hhws@hotmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10025,
+        "username": "\u9ad8\u611b\u82ac",
+        "phone": "0937186236",
+        "email": "winniemom2000@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10026,
+        "username": "\u5f35\u80b2\u7504",
+        "phone": "0919207507",
+        "email": "jane9169595@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10027,
+        "username": "\u9ec3\u67cf\u6069",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10028,
+        "username": "\u67cf\u6069",
+        "phone": "0932653773",
+        "email": "we7856@yahoo.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10029,
+        "username": "linli n",
+        "phone": "0912420280",
+        "email": "linlin0820@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10030,
+        "username": "\u9673\u6167\u5a1f",
+        "phone": "0921107722",
+        "email": "harrychuan@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10031,
+        "username": "\u5f6d\u654f\u82ac",
+        "phone": "0920523679",
+        "email": "daisypeng1@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10032,
+        "username": "annepid",
+        "phone": "0933207669",
+        "email": "annepid@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10033,
+        "username": "\u9127\u52dd\u5143",
+        "phone": "0920466281",
+        "email": "tc0804370@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10034,
+        "username": "\u5ed6\u4f69\u73cd",
+        "phone": "0910340308",
+        "email": "n14944@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10035,
+        "username": "\u9127\u672c\u4f7a",
+        "phone": "0920466281",
+        "email": "tc0804370@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10036,
+        "username": "\u674e\u660e\u748b",
+        "phone": "0937002088",
+        "email": "ljackiehp@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10037,
+        "username": "\u8607\u5b89\u90a6",
+        "phone": "0933836260",
+        "email": "jd058428@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10038,
+        "username": "\u8b1d\u69ae\u7965",
+        "phone": "0921141787",
+        "email": "shanghsieh07@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10039,
+        "username": "\u8521\u514b\u52e4",
+        "phone": "0953182903",
+        "email": "s32965@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10040,
+        "username": "\u5c0f\u5468_Test",
+        "phone": "0933207669",
+        "email": "annepid@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10041,
+        "username": "\u6c5f\u5b5f\u6a3a",
+        "phone": "0956270344",
+        "email": "cmw0956270344@hotmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10042,
+        "username": "\u8cf4\u7389\u79e6",
+        "phone": "0978088635",
+        "email": "salzburg_00@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10043,
+        "username": "lhm27497",
+        "phone": "0988063669",
+        "email": "lhm27497@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10044,
+        "username": "\u6881\u5bf6\u84ee",
+        "phone": "0912288510",
+        "email": "bl1@ms31.hinet.net",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10045,
+        "username": "\u984f\u739f\u699b",
+        "phone": "0975269847",
+        "email": "w53.c58@msa.hinet.net",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10046,
+        "username": "\u9ec3\u660e\u660e",
+        "phone": "0989561913",
+        "email": "we7856@yahoo.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10047,
+        "username": "\u6c60\u4eae\u84c1",
+        "phone": "0930138636",
+        "email": "may76722@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10048,
+        "username": "\u6797\u7f8e\u771f",
+        "phone": "0922683475",
+        "email": "may27272468@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10049,
+        "username": "\u674e\u79c0\u862d",
+        "phone": "0911224981",
+        "email": "lee680308@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10050,
+        "username": "\u6797\u5bb6\u5982",
+        "phone": "0958325758",
+        "email": "linjiaru.jia@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10051,
+        "username": "\u738b\u66c9\u660e",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10052,
+        "username": "\u9673\u6e05\u6f22",
+        "phone": "0922436822",
+        "email": "billchen1027@icloud.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10053,
+        "username": "\u8607\u6631",
+        "phone": "0919984598",
+        "email": "hachn.tw@msa.hinet.net",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10055,
+        "username": "\u9ec3\u9298\u6751",
+        "phone": "0922999113",
+        "email": "ca72033@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10056,
+        "username": "\u6797\u8c50\u9686",
+        "phone": "0933202550",
+        "email": "jim.fl.lin@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10057,
+        "username": "\u9673\u7f8e\u73e0",
+        "phone": "0937896606",
+        "email": "nkshmay98@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10058,
+        "username": "\u7fc1\u6dd1\u7d79",
+        "phone": "0985189221",
+        "email": "rebecca5673@gamail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10059,
+        "username": "\u6e38\u6fec\u7d18",
+        "phone": "0928183573",
+        "email": "danyou13@hotmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10060,
+        "username": "\u65bd\u91d1\u79c0",
+        "phone": "0911316726",
+        "email": "jinxiushih@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10061,
+        "username": "\u9023\u5efa\u946b",
+        "phone": "0933942187",
+        "email": "shreklien@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10062,
+        "username": "\u7fc1\u611b\u9999",
+        "phone": "0978083779",
+        "email": "hsujack6@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10063,
+        "username": "\u8521\u6dd1\u537f",
+        "phone": "0988011946",
+        "email": "kapamotor@ms79.hinet.net",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10064,
+        "username": "\u6c88\u80fd\u60c5",
+        "phone": "0919276682",
+        "email": "h0048@kimo.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10065,
+        "username": "Luca",
+        "phone": "0955152191",
+        "email": "a0955152191@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10066,
+        "username": "htt06bf0",
+        "phone": "0981282840",
+        "email": "hsiu0119tw@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10069,
+        "username": "\u6731\u5a55\u7a4e",
+        "phone": "0978792260",
+        "email": "tzuching791004@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10070,
+        "username": "\u5289\u6625\u8cbf",
+        "phone": "0939921832",
+        "email": "lcmtom3614@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10071,
+        "username": "\u5442\u5764\u6cc9",
+        "phone": "0931277790",
+        "email": "kcleu9@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10072,
+        "username": "\u6c5f\u6606\u7489",
+        "phone": "0922120113",
+        "email": "ca7203@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10073,
+        "username": "\u5468\u7d20\u74ca",
+        "phone": "0933207669",
+        "email": "annepid@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10074,
+        "username": "\u5442\u5de7\u7f8e",
+        "phone": "0912292492",
+        "email": "janicelieu@yahoo.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10075,
+        "username": "\u6797\u71d5\u862d",
+        "phone": "0935945428",
+        "email": "lyl.88@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10076,
+        "username": "\u6d2a\u7dba\u4f36",
+        "phone": "0935568992",
+        "email": "tzuchisandyhung168@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10077,
+        "username": "\u5433\u73cd\u9999",
+        "phone": "0921058297",
+        "email": "wjh4500@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10078,
+        "username": "\u6797\u5b87\u8ed2",
+        "phone": "0978624475",
+        "email": "kaelsohappy1@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10079,
+        "username": "\u6d2a\u6613\u8fb0",
+        "phone": "0955629976",
+        "email": "chienshen168@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10080,
+        "username": "\u6c6a\u5927\u5695",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10081,
+        "username": "\u6d77\u9cf4\u5a01",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10082,
+        "username": "\u6d77\u5927\u5c71",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10083,
+        "username": "\u6d77\u5927\u8def",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10084,
+        "username": "\u6797\u5b87\u8ed2123",
+        "phone": "0978624111",
+        "email": "test@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10085,
+        "username": "\u9673\u4f55\u5b0c",
+        "phone": "0910323996",
+        "email": "hochiao@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10086,
+        "username": "\u6797\u9673\u6625\u971e",
+        "phone": "0921133555",
+        "email": "linygt@ms5.hinet.net",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10087,
+        "username": "\u7f85\u666f\u8b7d",
+        "phone": "0912858711",
+        "email": "kkdsvictor@hotmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10088,
+        "username": "\u4f55\u5ead\u745c",
+        "phone": "0982189088",
+        "email": "ho.tinyu@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10089,
+        "username": "\u8a31\u932b\u967d",
+        "phone": "0925250000",
+        "email": "hsu022077@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10090,
+        "username": "\u9ec3\u60e0\u73b2",
+        "phone": "0988147282",
+        "email": "q678096@yhoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10091,
+        "username": "\u912d\u653f\u96c4",
+        "phone": "0978227710",
+        "email": "msyan@ms19.hinet.net",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10092,
+        "username": "\u4f0d\u73b2\u73b2",
+        "phone": "0911206570",
+        "email": "wuulingling@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10093,
+        "username": "cts06a14",
+        "phone": "0919942602",
+        "email": "paper732@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10094,
+        "username": "\u66fe\u8559\u6148",
+        "phone": "0921302188",
+        "email": "teqq5639@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10095,
+        "username": "\u6e38\u91c7\u6f54",
+        "phone": "0988114627",
+        "email": "silviayu1018@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10096,
+        "username": "\u90ed\u5fd7\u9686",
+        "phone": "0933606007",
+        "email": "kuo999@ms7.hinet.net",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10097,
+        "username": "ch0939770313",
+        "phone": "0939770313",
+        "email": "tzu.lien0203@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10098,
+        "username": "\u694a\u7d20\u96f2",
+        "phone": "0978615990",
+        "email": "home_town1973@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10100,
+        "username": "\u6797\u6631\u4f36",
+        "phone": "0930085717",
+        "email": "lin05281126@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10101,
+        "username": "\u9673\u79cb\u83ef",
+        "phone": "0933142416",
+        "email": "tzu24653@hotmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10102,
+        "username": "\u5f35\u745e\u8679",
+        "phone": "0972894305",
+        "email": "fjuiamsa@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10103,
+        "username": "\u5f35\u79c0\u82f1",
+        "phone": "0988136735",
+        "email": "mandyin.chang@msa.hinet.net",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10104,
+        "username": "\u845b\u5146\u767c",
+        "phone": "0953321893",
+        "email": "choufa.ge@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10105,
+        "username": "\u6797\u6021\u5229",
+        "phone": "0932065357",
+        "email": "yiliworktime@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10106,
+        "username": "peggy",
+        "phone": "0972331271",
+        "email": "peggy711203@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10107,
+        "username": "\u9673\u7f8e\u7389",
+        "phone": "0932908886",
+        "email": "as29560307@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10108,
+        "username": "\u9ec3\u91d1\u82f1",
+        "phone": "0955172606",
+        "email": "ginachi2606@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10109,
+        "username": "\u6797\u9f0e\u5091",
+        "phone": "0987586002",
+        "email": "you82130@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10110,
+        "username": "\u694a\u7d20\u96f20978615990",
+        "phone": "0978615990",
+        "email": "home_town1973@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10111,
+        "username": "\u9ec3\u79c0\u7434",
+        "phone": "0935348528",
+        "email": "hsc32@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10112,
+        "username": "\u9673\u674e\u5c11\u6c11",
+        "phone": "0910278260",
+        "email": "kevin525230@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10113,
+        "username": "\u9673\u5fd7\u65870978343066",
+        "phone": "0978343066",
+        "email": "jyhwin.chen@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10114,
+        "username": "\u5442\u9e97\u541b",
+        "phone": "0953899146",
+        "email": "z025130110@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10115,
+        "username": "\u6797\u6587\u8cea",
+        "phone": "0932235796",
+        "email": "chiyun.co@msa.hinet.net",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10116,
+        "username": "\u912d\u82f1\u73cd",
+        "phone": "0978275471",
+        "email": "mnb2952@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10117,
+        "username": "\u5c71\u5927\u5695",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10118,
+        "username": "\u5f90\u570b\u921e",
+        "phone": "0988188878",
+        "email": "kem7626@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10119,
+        "username": "\u66f9\u5065\u8f1d",
+        "phone": "0939640930",
+        "email": "been.chieh@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10120,
+        "username": "\u66fe\u7389\u9e9f",
+        "phone": "0939865004",
+        "email": "tsennl@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10121,
+        "username": "\u674e\u7af9\u83ef",
+        "phone": "0972958960",
+        "email": "chuhua29345@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10122,
+        "username": "\u66f9\u672c\u5065",
+        "phone": "0939640930",
+        "email": "been.chieh@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10123,
+        "username": "\u5433\u7f8e\u8c9e",
+        "phone": "0921608366",
+        "email": "kadywu205@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10124,
+        "username": "\u674e\u9e97\u73e0",
+        "phone": "0918197168",
+        "email": "llc0501@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10125,
+        "username": "\u9673\u6625\u6dd1",
+        "phone": "0928851600",
+        "email": "daai1296@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10126,
+        "username": "\u9673\u4fe1\u8afa0981555229",
+        "phone": "0981555229",
+        "email": "a32618@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10127,
+        "username": "\u8a31\u91d1\u798f",
+        "phone": "0933030707",
+        "email": "a0933030707@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10128,
+        "username": "Taipei02squaD52",
+        "phone": "0933030707",
+        "email": "a0933030707@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10129,
+        "username": "\u9673\u60e0\u771f",
+        "phone": "0933216916",
+        "email": "mstpjane@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10130,
+        "username": "\u838a\u9234\u7389",
+        "phone": "0911228875",
+        "email": "linyu8859@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10131,
+        "username": "\u738b\u80b2\u6167",
+        "phone": "0937061708",
+        "email": "isecho00@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10132,
+        "username": "\u9ec3\u6587\u79ae",
+        "phone": "0967 270 109",
+        "email": "nokia7610ok@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10133,
+        "username": "\u90ed\u5bf6\u79aa",
+        "phone": "0922878580",
+        "email": "kbc0922878580@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10134,
+        "username": "\u6731\u6842\u82ac",
+        "phone": "0910086819",
+        "email": "bigchu64@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10135,
+        "username": "\u8cf4\u7f8e\u73cd",
+        "phone": "0928896238",
+        "email": "mayjenlia@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10136,
+        "username": "\u9ec3\u67d4\u8431",
+        "phone": "0972253121",
+        "email": "like760806@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10137,
+        "username": "\u9673\u6625\u60e0",
+        "phone": "0953416891",
+        "email": "chun4739@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10138,
+        "username": "\u9ec3\u6708\u4ed9",
+        "phone": "0939086338",
+        "email": "sandy09230923@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10139,
+        "username": "\u6797\u4fca\u5176",
+        "phone": "\u6797\u4fca\u5176",
+        "email": "adrian720110@hotmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10140,
+        "username": "\u5433\u78a7\u83ef",
+        "phone": "0930858715",
+        "email": "grace.wu926@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10141,
+        "username": "\u616e\u683c",
+        "phone": "0978615990",
+        "email": "home_town1973@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10142,
+        "username": "\u984f\u5929\u8cdc",
+        "phone": "0930257557",
+        "email": "su163048@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10143,
+        "username": "\u8cf4\u9e97\u73e0",
+        "phone": "0972190406",
+        "email": "sammi861423@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10144,
+        "username": "\u99ac\u674e\u60e0\u654f",
+        "phone": "18122177",
+        "email": "jubi.lyy@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10145,
+        "username": "\u694a\u674f\u59ff",
+        "phone": "0989574349",
+        "email": "july0377@hotmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10146,
+        "username": "\u9ec3\u6625\u5982",
+        "phone": "tc0919359086",
+        "email": "chuenru21@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10147,
+        "username": "\u8a31\u660e\u73e0",
+        "phone": "0988500785",
+        "email": "tt0456ju@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10148,
+        "username": "\u5f35\u5ae6\u5a25",
+        "phone": "0921155806",
+        "email": "lcuy3399@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10149,
+        "username": "\u5ba5\u921e0900640625",
+        "phone": "0900640625",
+        "email": "a0900640625@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10150,
+        "username": "\u6797\u6587\u7389",
+        "phone": "0919495990",
+        "email": "jlin243@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10151,
+        "username": "\u9ec3\u6708\u5b0c",
+        "phone": "0937885466",
+        "email": "N1125815@ntub.edu.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10152,
+        "username": "\u9ec3\u6c38\u8ce2",
+        "phone": "0910096145",
+        "email": "h20140903@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10153,
+        "username": "\u8b1d\u7f8e\u79cb",
+        "phone": "0919299714",
+        "email": "sarahsieh2013@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10154,
+        "username": "\u738b\u5ba5\u921e",
+        "phone": "0900640625",
+        "email": "a0900640625@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10155,
+        "username": "\u912d\u69ae\u83ef",
+        "phone": "0937001687",
+        "email": "j701027@ms27.hinet.net",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10156,
+        "username": "\u9673\u6dd1\u6167",
+        "phone": "0937452956",
+        "email": "suhu07203@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10157,
+        "username": "\u859b\u6728\u5c71",
+        "phone": "0912825315",
+        "email": "sms8248@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10158,
+        "username": "\u9ec3\u66fe\u5e7c\u99a8",
+        "phone": "0975549375",
+        "email": "tsengyh@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10159,
+        "username": "\u9673\u9032\u9806",
+        "phone": "0910388099",
+        "email": "Js-323@hotmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10160,
+        "username": "\u8a31\u8000\u660e",
+        "phone": "0972838650",
+        "email": "yiaoming@gmail",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10161,
+        "username": "\u767d\u5d11\u5ef7",
+        "phone": "0910100058",
+        "email": "hl.381121@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10162,
+        "username": "\u6797\u672c\u8c50",
+        "phone": "0933201055",
+        "email": "a27822089.@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10163,
+        "username": "\u9673\u4e2d\u8c6a\u5317\u4e8c",
+        "phone": "0953261612",
+        "email": "jchchenusa@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10164,
+        "username": "\u5433\u677e\u5c71",
+        "phone": "0937893827",
+        "email": "wuss1230@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10165,
+        "username": "\u9673\u6176\u96c40953533359",
+        "phone": "0953533359",
+        "email": "shen22229900@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10166,
+        "username": "\u4f59\u9326\u8c6a",
+        "phone": "0933848308",
+        "email": "ch1598m@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10167,
+        "username": "\u9673\u6176\u96c4",
+        "phone": "0953533359",
+        "email": "shen22229900@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10168,
+        "username": "\u9673\u4e2d\u8c6a",
+        "phone": "0953261612",
+        "email": "jchchenusa@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10169,
+        "username": "\u8449\u9686\u5b890972355354",
+        "phone": "0972355354",
+        "email": "david222335@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10170,
+        "username": "\u8449\u9686\u5b89",
+        "phone": "0972355354",
+        "email": "david22335@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10171,
+        "username": "\u9418\u548c\u93ae",
+        "phone": "0932915592",
+        "email": "cfvideo93@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10172,
+        "username": "\u9673\u6b63\u5bcc",
+        "phone": "0919371143",
+        "email": "rick911.c@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10173,
+        "username": "Terence",
+        "phone": "0920466281",
+        "email": "tc0804370@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10174,
+        "username": "\u9673\u571f\u6e2f",
+        "phone": "0919227829",
+        "email": "toogon@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10175,
+        "username": "\u9ad8\u9298\u50b30955487006",
+        "phone": "0955487006",
+        "email": "kmc21920@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10176,
+        "username": "\u694a\u8cb4\u53570918569923",
+        "phone": "0918569923",
+        "email": "young0918569923@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10177,
+        "username": "\u738b\u4e59\u7fd50953895925",
+        "phone": "0953895925",
+        "email": "alex906.wang@msa.hinet.net",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10178,
+        "username": "\u9ad8\u9298\u50b3",
+        "phone": "0955487006",
+        "email": "kmc21920@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10179,
+        "username": "\u674e\u4f73\u71d5",
+        "phone": "0975971270",
+        "email": "971270@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10180,
+        "username": "\u5f35\u5357\u67510922136839",
+        "phone": "0922136839",
+        "email": "a0922136839@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10181,
+        "username": "\u9673\u5b50\u661f",
+        "phone": "0912283481",
+        "email": "daniel.chen1126@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10182,
+        "username": "\u9ec3\u4ec1\u5ddd",
+        "phone": "0937500261",
+        "email": "chchang05432@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10183,
+        "username": "\u8cf4\u6625\u8587",
+        "phone": "0911589358",
+        "email": "wei29530107@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10184,
+        "username": "\u6797\u6df5\u6b66",
+        "phone": "0919299672",
+        "email": "lin1107497@gmail.c0m",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10185,
+        "username": "\u6c5f\u5bf6\u6e05",
+        "phone": "0921723109",
+        "email": "easycase168@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10186,
+        "username": "\u6c5f\u5bf6\u6e050921723109",
+        "phone": "0921723109",
+        "email": "easycase168@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10187,
+        "username": "\u856d\u5b8f\u6d0b",
+        "phone": "0939223320",
+        "email": "009254@mail.tbb.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10188,
+        "username": "\u8a31\u767b\u862d",
+        "phone": "0922028227",
+        "email": "vicky.0826@hotmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10189,
+        "username": "\u8b1d\u8b19\u8aa0",
+        "phone": "0937085986",
+        "email": "pig2312000@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10190,
+        "username": "\u5289\u5cfb\u4e1e0928845748",
+        "phone": "0928845748",
+        "email": "ling0752@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10191,
+        "username": "\u984f\u660e\u8f1d",
+        "phone": "0936260020",
+        "email": "bv2an@ms10.hinet.net",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10192,
+        "username": "\u6c88\u7389\u84ee",
+        "phone": "0932141182",
+        "email": "linda23431@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10194,
+        "username": "\u5289\u660e\u83c1",
+        "phone": "0920986976",
+        "email": "happy986976@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10195,
+        "username": "\u6d2a\u6587\u6770",
+        "phone": "0985914075",
+        "email": "jayss1980@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10196,
+        "username": "\u6797\u9326\u5b8f",
+        "phone": "0953476879",
+        "email": "huah8651@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10197,
+        "username": "\u7f85\u79c0\u5997",
+        "phone": "0932054177",
+        "email": "jinhomeyes@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10198,
+        "username": "\u9673\u5764\u5bcc",
+        "phone": "0932332542",
+        "email": "chen332542@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10199,
+        "username": "\u674e\u539a\u6bc5",
+        "phone": "0921904679",
+        "email": "94m12012@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10200,
+        "username": "\u6881\u69ae\u70ba0920204317",
+        "phone": "(+886) 920 204 317",
+        "email": "kenny3158@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10201,
+        "username": "\u9673\u6c38\u548c",
+        "phone": "0921198705",
+        "email": "lal1204yh@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10202,
+        "username": "\u9673\u76c8\u9054",
+        "phone": "0955032516",
+        "email": "adamchen0934@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10203,
+        "username": "\u5433\u7f8e\u6afb",
+        "phone": "0918073330",
+        "email": "wme2608@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10204,
+        "username": "\u5b6b\u4fdd\u6e90",
+        "phone": " 0973365556",
+        "email": "thomassun7@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10205,
+        "username": "tc0917652799",
+        "phone": "0917652799",
+        "email": "jen765299@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10206,
+        "username": "cipher",
+        "phone": "0922170605",
+        "email": "cipher0923.huang@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10207,
+        "username": "\u8cf4\u8cde",
+        "phone": "0989752401",
+        "email": "abc461220@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10208,
+        "username": "\u9673\u6dd1\u7d68",
+        "phone": "0921967578",
+        "email": "a0921967578@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10209,
+        "username": "\u9ec3\u5927\u767d",
+        "phone": "0989561913",
+        "email": "ttza00827@tzuchi.org.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10210,
+        "username": "\u9ec3\u5927\u85cd",
+        "phone": "0989561913",
+        "email": "ttza00827@tzuchi.org.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10212,
+        "username": "\u65b0\u6cf0\u56db-\u9673\u5fd7\u6770",
+        "phone": "0932266216",
+        "email": "dooko89@ms48.url.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10213,
+        "username": "\u738b\u6c34\u6d77",
+        "phone": "0989561913",
+        "email": "ttza00827@tzuchi.org.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10214,
+        "username": "\u6f58\u5409\u5fe0",
+        "phone": "0930896397",
+        "email": "simonpan0225@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10215,
+        "username": "\u9ec3\u611b\u60e0",
+        "phone": "0912586727",
+        "email": "huang.elaine886@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10216,
+        "username": "\u8cf4\u6c38\u8ed2",
+        "phone": "0972171075",
+        "email": "bonvivi006@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10217,
+        "username": "\u9673\u6e05\u9999",
+        "phone": "0936514638",
+        "email": "maruko36025@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10218,
+        "username": "\u738b\u79cb\u9326",
+        "phone": "0925009756",
+        "email": "fewang168@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10219,
+        "username": "\u9673\u6dd1\u73b2",
+        "phone": "0936118211",
+        "email": "ally54337603@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10220,
+        "username": "\u7f85\u6708\u7f8e",
+        "phone": "0910913213",
+        "email": "ym9374@msn.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10221,
+        "username": "\u5f35\u9032\u548c",
+        "phone": "0933140633",
+        "email": "n14801@outlook.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10222,
+        "username": "\u694a\u975a\u83980926269368",
+        "phone": "0926269368",
+        "email": "loretta.yang1959@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10223,
+        "username": "\u7f85\u7f8e\u96c4",
+        "phone": "09050957690",
+        "email": "hsiung1136@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10224,
+        "username": "\u5289\u7389\u82ac",
+        "phone": "0939398602",
+        "email": "liuyufen@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10225,
+        "username": "\u738b\u6dd1\u8c9e",
+        "phone": "0933126464",
+        "email": "amanda530725@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10226,
+        "username": "tc0958787928",
+        "phone": "0958787928",
+        "email": "lyt768@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10227,
+        "username": "shen22229900@gmail.com",
+        "phone": "0953533359",
+        "email": "shen22229900@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10228,
+        "username": "\u9127\u5efa\u4e2d",
+        "phone": "0928544163",
+        "email": "ratiosp.albert@msa.hinet.net",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10229,
+        "username": "yuan",
+        "phone": "0987930161",
+        "email": "a1234@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10230,
+        "username": "\u5468\u79c0\u654f",
+        "phone": "0930479475",
+        "email": "ellypp0331@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10231,
+        "username": "\u9b4f\u5b50\u6021",
+        "phone": "0932947390",
+        "email": "tyzziwei2003@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10232,
+        "username": "\u694a\u975a\u8398",
+        "phone": "0926269368",
+        "email": "loretta.yang1959@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10233,
+        "username": "\u8b1d\u7d20\u60e0",
+        "phone": "0983236381",
+        "email": "ww.86189ccc@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10234,
+        "username": "\u90ed\u6021\u96ef",
+        "phone": "0912577862",
+        "email": "ind5412@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10235,
+        "username": "\u9673\u9e97\u83ef",
+        "phone": "0927385218",
+        "email": "hua.n6271@msa.hinet.net",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10236,
+        "username": "\u8521\u6dd1\u8559",
+        "phone": "0978181471",
+        "email": "a82006149@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10237,
+        "username": "\u9673\u4e16\u582f",
+        "phone": "0936931484",
+        "email": "jack8201@hotmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10238,
+        "username": "\u6797\u4e16\u6b3d",
+        "phone": "0928225685",
+        "email": "jameslinsc@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10239,
+        "username": "\u8881\u97f6\u8046",
+        "phone": "0987930161",
+        "email": "shaolingyuan@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10240,
+        "username": "\u5fc3\u739f\u739f",
+        "phone": "0912525245",
+        "email": "hsinwen2013@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10241,
+        "username": "\u5468\u52dd\u5b8f",
+        "phone": "0968678589",
+        "email": "a0968678589@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10242,
+        "username": "\u8a79\u9e97\u7434",
+        "phone": "0935363396",
+        "email": "clichin25062251@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10243,
+        "username": "\u675c\u4ed5\u767c",
+        "phone": "0926621098",
+        "email": "dayze@u--c.net",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10244,
+        "username": "\u7c21\u70b3\u8000",
+        "phone": "0908899756",
+        "email": "bingyaojian@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10245,
+        "username": "\u90b1\u8a9e\u5a1f",
+        "phone": "0910302982",
+        "email": "katari612@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10246,
+        "username": "\u9ec3\u6708\u73e0",
+        "phone": "0937593801",
+        "email": "rita60423@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10247,
+        "username": "\u5deb\u6167\u4fd0",
+        "phone": "0926467034",
+        "email": "huili619@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10248,
+        "username": "\u5fc3\u739f",
+        "phone": "0912525245",
+        "email": "hsinwen2013@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10249,
+        "username": "\u6797\u79cb\u7389",
+        "phone": "0910175493",
+        "email": "mingshiang5678ster@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10250,
+        "username": "\u5433\u660e\u502b",
+        "phone": "0939242663",
+        "email": "wu5892@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10251,
+        "username": "\u5f35\u96c5\u541b",
+        "phone": "0975650406",
+        "email": "a0975650406@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10252,
+        "username": "\u674e\u5fb7\u7f8e",
+        "phone": "0929907602",
+        "email": "may01010525@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10253,
+        "username": "\u694a\u7b51\u96c5",
+        "phone": "0920838376",
+        "email": "amberyang66@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10254,
+        "username": "\u9673\u6f03\u6a3a",
+        "phone": "0920511849",
+        "email": "jessie@ptsunion.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10255,
+        "username": "\u6797\u975c\u5100",
+        "phone": "0921198686",
+        "email": "evadnelin2208@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10256,
+        "username": "\u65b0\u6cf0\u56db\u8b1d\u6d77",
+        "phone": "0911007559",
+        "email": "benyuan2262@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10257,
+        "username": "\u5289\u53cb\u6587",
+        "phone": "0972183817",
+        "email": "alvin.ufotech@gmaul.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10258,
+        "username": "\u674e\u5fb7\u7f8e0929907602",
+        "phone": "0929907602",
+        "email": "may01010525@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10259,
+        "username": "\u9673",
+        "phone": "0920511849",
+        "email": "jessie@ptsunion.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10260,
+        "username": "\u6797\u541b\u7a4e",
+        "phone": "0930030065",
+        "email": "kiki5881688@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10261,
+        "username": "\u7c21\u8070\u7530",
+        "phone": "0937968205",
+        "email": "chung-tien@outlook.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10262,
+        "username": "\u5f35\u535a\u55840919207013",
+        "phone": "0919207013",
+        "email": "poshanchang@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10263,
+        "username": "\u6797\u5bcc\u7f8e",
+        "phone": "0937520832",
+        "email": "linmei8782@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10264,
+        "username": "\u5f35\u535a\u5584",
+        "phone": "0919207013",
+        "email": "poshanchang@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10265,
+        "username": "\u674e\u5fd7\u8acb",
+        "phone": "0953686883",
+        "email": "chingle78@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10266,
+        "username": "\u5289\u7f8e\u73b2",
+        "phone": "0917288402",
+        "email": "kathy495177@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10267,
+        "username": "\u5de6\u5c0f\u73b2\u73b2",
+        "phone": "0920308006",
+        "email": "shirlingtsuo@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10268,
+        "username": "\u97f6\u8046",
+        "phone": "0987930161",
+        "email": "shaolingyuan@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10269,
+        "username": "\u9806\u5f97",
+        "phone": "0918963085",
+        "email": "aa0918963085@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10270,
+        "username": "\u6797\u7d20\u79cb",
+        "phone": "0938860995",
+        "email": "rachel33107@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10271,
+        "username": "\u5317\u4e09 \u6d2a\u4e43\u6587",
+        "phone": "0910185865",
+        "email": "polyph0028@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10272,
+        "username": "\u66fe\u660e\u661f",
+        "phone": "0927428616",
+        "email": "ind5412@ms4.hinet.net",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10273,
+        "username": "\u912d\u9d3b\u74b0",
+        "phone": "0958164939",
+        "email": "nancy.hcheng2@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10274,
+        "username": "\u6797\u7fa4\u5091",
+        "phone": "0930066566",
+        "email": "versace5818@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10275,
+        "username": "\u59da\u6dd1\u5a1f",
+        "phone": "0983051029",
+        "email": "sandyyau1963@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10276,
+        "username": "\u738b\u6709\u797f",
+        "phone": "0928521170",
+        "email": "lulu_wang62@hotmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10277,
+        "username": "\u9673\u4ea6\u73cd",
+        "phone": "0918378777",
+        "email": "joyce447121@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10278,
+        "username": "\u5f35\u6fdf\u769a",
+        "phone": "0937852089",
+        "email": "poshanchang@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10279,
+        "username": "\u90ed\u60e0\u83c1",
+        "phone": "0978663926",
+        "email": "ariel19663@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10280,
+        "username": "\u6797\u7f8e\u5b9c",
+        "phone": "TC0919270695",
+        "email": "mie4845.my@msa.hinwt.net",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10281,
+        "username": "si_n1642",
+        "phone": "0911874355",
+        "email": "yuching1642@mail2000.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10282,
+        "username": "\u6bc5\u5049",
+        "phone": "0937099875",
+        "email": "chenew713@gmail",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10283,
+        "username": "\u738b\u6631\u6674",
+        "phone": "0911874355",
+        "email": "yuching1642@mail2000.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10284,
+        "username": "\u674e\u6e05\u58fd",
+        "phone": "0928860101",
+        "email": "lee26758128@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10285,
+        "username": "\u672c\u6e900922136839",
+        "phone": "0922136839",
+        "email": "a0922136839@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10286,
+        "username": "\u8521\u5e73\u6d32",
+        "phone": "0988359338",
+        "email": "tpc551125@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10287,
+        "username": "\u7f85\u821c\u4ec1",
+        "phone": "0932 278 520",
+        "email": "loshenjen@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10288,
+        "username": "\u5442\u4f69\u73b2",
+        "phone": "0988919095",
+        "email": "peilinglu45611@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10289,
+        "username": "\u674e\u653f\u660e",
+        "phone": "0932038127",
+        "email": "lcn.hk88@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10290,
+        "username": "\u65bd\u5091\u9594",
+        "phone": "0922212607",
+        "email": "lucky930@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10291,
+        "username": "\u738b\u5fd7\u8f1d",
+        "phone": "0932060762",
+        "email": "johnwang918@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10292,
+        "username": "\u840c\u840c",
+        "phone": "0988015055",
+        "email": "welovehebe@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10293,
+        "username": "\u5f35\u5143\u8070",
+        "phone": "0933907707",
+        "email": "yuan022861@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10294,
+        "username": "\u6797\u4e16\u6b3d\u6de1\u4e8c",
+        "phone": "0928225685",
+        "email": "jameslinsc@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10295,
+        "username": "\u6797\u616e\u7f55",
+        "phone": "0919270695",
+        "email": "mie4845.my@msa.hinwt.net",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10296,
+        "username": "\u5433\u7389\u5c0d",
+        "phone": "0952383959",
+        "email": "hsintui0102@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10297,
+        "username": "\u6c88\u7d20\u5bf6",
+        "phone": "0975491518",
+        "email": "w24070@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10298,
+        "username": "\u9673\u82f1\u6842",
+        "phone": "0928604525",
+        "email": "cik020388@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10299,
+        "username": "\u66f9\u6587\u6b63",
+        "phone": "0911297095",
+        "email": "N29104925@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10300,
+        "username": "\u8a31\u6fa4\u83ef",
+        "phone": "0988857188",
+        "email": "hyoonco@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10301,
+        "username": "\u694a\u6587\u9053",
+        "phone": "0937777211",
+        "email": "ywd0293@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10302,
+        "username": "\u738b\u5927\u767c\u4e00\u865f",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10303,
+        "username": "\u738b\u5927\u767c\u4e8c\u865f",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10304,
+        "username": "yufen",
+        "phone": "0939398602",
+        "email": "liuyufen@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10305,
+        "username": "\u5f6d\u6587\u9054",
+        "phone": "0958553685",
+        "email": "peng80802002@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10306,
+        "username": "\u6e38\u9e97\u73b20978081825",
+        "phone": "tc0978081825",
+        "email": "sky7711@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10307,
+        "username": "\u9673\u7f8e\u7d14",
+        "phone": "0920053178",
+        "email": "rich5705@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10308,
+        "username": "\u738b\u5929\u4ec1",
+        "phone": "09039376866",
+        "email": "skywang13419@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10309,
+        "username": "\u9ec3\u4e16\u82f1",
+        "phone": "0921841261",
+        "email": "margie01155@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10310,
+        "username": "\u8a31\u9e97\u862d",
+        "phone": "0978136803",
+        "email": "r10812011@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10311,
+        "username": "\u9673\u59dd\u6708",
+        "phone": "0921176570",
+        "email": "cj709290@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10312,
+        "username": "\u9673\u5fe0\u83ef",
+        "phone": "0936090214",
+        "email": "chunghua.wugu@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10313,
+        "username": "\u8607\u5cfb\u6c11",
+        "phone": "0926821959",
+        "email": "roger.su76@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10314,
+        "username": "\u8521\u745e\u8070",
+        "phone": "0916865572",
+        "email": "rttsai@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10315,
+        "username": "\u674e\u6052\u8c6a",
+        "phone": "0955090239",
+        "email": "salaveylee@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10316,
+        "username": "\u5433\u5609\u535a",
+        "phone": "0922519572",
+        "email": "globalbridge168@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10317,
+        "username": "jtc0b635",
+        "phone": "0931072038",
+        "email": "196007joe@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10318,
+        "username": "amy10670@gmail.com",
+        "phone": "0935863348",
+        "email": "amy10670@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10319,
+        "username": "\u9ad8\u6708\u767d",
+        "phone": "0905519303",
+        "email": "sylvia7139@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10320,
+        "username": "\u912d\u6e58\u6708",
+        "phone": "0916726366",
+        "email": "y.head611@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10321,
+        "username": "3north4triple2",
+        "phone": "0928561989",
+        "email": "lis.bb2988@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10322,
+        "username": "jtl08df0",
+        "phone": "0916004742",
+        "email": "c29780221@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10323,
+        "username": "tchc000089",
+        "phone": "0933079820",
+        "email": "s9141314@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10324,
+        "username": "atl002e9",
+        "phone": "0910913213",
+        "email": "ym9374@msn.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10325,
+        "username": "\u856d\u5fc3\u8335",
+        "phone": "0911320766",
+        "email": "arial0225@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10326,
+        "username": "\u7a46\u4ec1\u4fe1",
+        "phone": "0935604127",
+        "email": "trn4237@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10327,
+        "username": "mtc0c770",
+        "phone": "0932358425",
+        "email": "a7051573@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10328,
+        "username": "\u90ed\u6587\u7965",
+        "phone": "0935727656",
+        "email": "whkuotsai@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10329,
+        "username": "sth0fbb5",
+        "phone": "0953421790",
+        "email": "young14lkk@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10330,
+        "username": "\u803f\u7f8e\u83ef",
+        "phone": "0921333805",
+        "email": "cj862166@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10331,
+        "username": "daai44131",
+        "phone": "0921176570",
+        "email": "cj709290@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10332,
+        "username": "ctm04876",
+        "phone": "0932238701",
+        "email": "grant.a07@msa.hinet.net",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10333,
+        "username": "tc0926269368",
+        "phone": "0926269368",
+        "email": "loretta.yang1959@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10334,
+        "username": "ltyd33",
+        "phone": "0908488398",
+        "email": "lisa809tz@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10335,
+        "username": "\u9ec3\u78a7\u862d",
+        "phone": "0921056698",
+        "email": "cheans.huang@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10336,
+        "username": "\u674e\u6dd1\u5a1f",
+        "phone": "0976626162",
+        "email": "jptzuti@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10337,
+        "username": "\u963f\u5fb70935258181",
+        "phone": "0935258181",
+        "email": "coolchen777@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10338,
+        "username": "\u5433\u745e\u6e05",
+        "phone": "0920053178",
+        "email": "rich5705@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10339,
+        "username": "ctl1b0b7",
+        "phone": "0933816001",
+        "email": "b28571941@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10340,
+        "username": "\u9127\u5409\u91e7",
+        "phone": "0931336526",
+        "email": "q102635@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10341,
+        "username": "\u6234\u9e97\u4fd0",
+        "phone": "0933894733",
+        "email": "tailily26@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10342,
+        "username": "\u66fe\u715c\u5c55",
+        "phone": "0978002981",
+        "email": "tzu20910@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10343,
+        "username": "edwin222tw",
+        "phone": "0928219457",
+        "email": "pragchrelter@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10344,
+        "username": "\u5468\u4f73\u84c9",
+        "phone": "0932800966",
+        "email": "cty6295@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10345,
+        "username": "\u5b5f\u6176\u6751",
+        "phone": "0932238701",
+        "email": "grant.a07@msa.hinet.net",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10346,
+        "username": "\u9ec3\u8389\u5a1f",
+        "phone": "0919350107",
+        "email": "lichunghuang@outlook.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10347,
+        "username": "\u674e\u745e\u7434",
+        "phone": "0916004742",
+        "email": "c29780221@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10348,
+        "username": "\u856d\u5609\u660e",
+        "phone": "0937864955",
+        "email": "jamy765@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10349,
+        "username": "lty04d33",
+        "phone": "0908488398",
+        "email": "lisa809tz@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10350,
+        "username": "\u9ec3\u6dd1\u60e00922200784",
+        "phone": "0922200784",
+        "email": "shv@seed.net.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10351,
+        "username": "\u6d2a\u9cf3\u96c50928262671",
+        "phone": "0928262671",
+        "email": "mercy26181503@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10352,
+        "username": "\u9023\u5ba5\u5d340970632895",
+        "phone": "tc0970632895",
+        "email": "x236969@yahoo.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10353,
+        "username": "\u9ec3\u6dd1\u7f8e0933904992",
+        "phone": "0933904992",
+        "email": "a26362095@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10354,
+        "username": "\u5289\u745e\u9999",
+        "phone": "0928561989",
+        "email": "lis.bb2988@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10355,
+        "username": "\u9ec3\u9e97\u6afb",
+        "phone": "0914160999",
+        "email": "roro1024@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10356,
+        "username": "\u856d\u898b\u667a0933042812",
+        "phone": "0933042812",
+        "email": "shiaucc@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10357,
+        "username": "\u66fe\u67cf\u7fd40921125883",
+        "phone": "0921125883",
+        "email": "023968@daaitv.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10358,
+        "username": "\u7c21\u7389\u84c9 0939258138",
+        "phone": "0939258138",
+        "email": "chili5371@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10359,
+        "username": "\u6e38\u9e97\u73b2",
+        "phone": "0978081825",
+        "email": "sky7711@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10360,
+        "username": "\u5f35\u79c0\u73b2",
+        "phone": "0975724240",
+        "email": "dctzuhwa1@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10361,
+        "username": "\u9ec3\u6bd3\u73cd",
+        "phone": "0952103641",
+        "email": "huang_yuchen@mail2000.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10362,
+        "username": "\u9673\u6bc5\u5049",
+        "phone": "0937099875",
+        "email": "chenew713@gmail",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10363,
+        "username": "\u5f35\u7dad\u7fd4",
+        "phone": "0922325400",
+        "email": "changws412@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10364,
+        "username": "\u66fe\u67cf\u7fd4",
+        "phone": "0921125883",
+        "email": "023968@daaitv.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10365,
+        "username": "\u856d\u898b\u667a",
+        "phone": "0933042812",
+        "email": "shiaucc@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10366,
+        "username": "\u9ec3\u6dd1\u60e0",
+        "phone": "0922200784",
+        "email": "shv@seed.net.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10367,
+        "username": "\u9023\u5ba5\u5d34",
+        "phone": "0970632895",
+        "email": "x236969@yahoo.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10368,
+        "username": "\u6d2a\u9cf3\u96c5",
+        "phone": "0928262671",
+        "email": "mercy26181503@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10369,
+        "username": "\u9ec3\u6dd1\u7f8e",
+        "phone": "0933904992",
+        "email": "a26362095@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10370,
+        "username": "\u738b\u5929\u4ec1sky",
+        "phone": "0903937866",
+        "email": "skywang13419@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10371,
+        "username": "\u7c21\u7389\u84c9",
+        "phone": "0939258138",
+        "email": "chili5371@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10372,
+        "username": "\u9673\u6b63\u5fb7",
+        "phone": "0935258181",
+        "email": "coolchen777@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10373,
+        "username": "\u9673\u7f8e\u79c0",
+        "phone": "0932358425",
+        "email": "a7051573@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10374,
+        "username": "\u9673\u4fca\u5b87",
+        "phone": "0928219457",
+        "email": "pragchrelter@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10375,
+        "username": "\u8d99\u5b50\u96c4",
+        "phone": "0931072038",
+        "email": "196007joe@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10376,
+        "username": "\u8b1d\u6d77",
+        "phone": "0911007559",
+        "email": "benyuan2262@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10377,
+        "username": "\u9ec3\u6dd1\u7165",
+        "phone": "0953421790",
+        "email": "young14lkk@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10378,
+        "username": "\u6d2a\u4e43\u6587",
+        "phone": "0910185865",
+        "email": "polyph0028@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10379,
+        "username": "\u694a\u5f02\u5bb6",
+        "phone": "0908488398",
+        "email": "lisa809tz@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10380,
+        "username": "\u8a31\u9e97\u73b2",
+        "phone": "0937878823",
+        "email": "sayahsu8@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10381,
+        "username": "\u674e\u4f73\u73cd",
+        "phone": "0933816001",
+        "email": "b28571941@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10382,
+        "username": "\u738b\u767c\u767c",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10383,
+        "username": "\u674e\u5955\u840d",
+        "phone": "0932330717",
+        "email": "yiping520@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10384,
+        "username": "\u912d\u4fe1\u7fa9",
+        "phone": "0963268044",
+        "email": "aishinpet@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10385,
+        "username": "\u5f35\u7f8e\u667a",
+        "phone": "0986562936",
+        "email": "alice2uix@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10386,
+        "username": "\u8521\u767d\u7403",
+        "phone": "0933164249",
+        "email": "bye.chu@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10387,
+        "username": "\u6d2a\u96ea\u6885",
+        "phone": "0928415603",
+        "email": "hungmei5549@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10388,
+        "username": "\u7c21\u7389\u73ca",
+        "phone": "0912419788",
+        "email": "otter9354@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10389,
+        "username": "\u5f90\u6625\u76db",
+        "phone": "0910274183",
+        "email": "a6305957@yahoo.com.tw",
+        "place": "\u6843\u5712",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10390,
+        "username": "\u7fc1\u6587\u96c4",
+        "phone": "0937886972",
+        "email": "wen053028@yahoo.com.tw",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10391,
+        "username": "\u4f55\u4f73\u596e",
+        "phone": "0937889117",
+        "email": "jeff.heho@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10392,
+        "username": "\u9867\u4f69\u73cd",
+        "phone": "0987446158",
+        "email": "jane490304@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10393,
+        "username": "\u5f35\u632f\u6210",
+        "phone": "0918557978",
+        "email": "jc8899@livemail.tw",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10394,
+        "username": "\u9673\u79c0\u8cb4",
+        "phone": "0933944588",
+        "email": "patfair@ms63.hinet.net",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10395,
+        "username": "\u6e38\u6625\u5a18",
+        "phone": "0928568060",
+        "email": "3551127@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10396,
+        "username": "\u4e18\u4ead",
+        "phone": "0937810907",
+        "email": "chiouting0916@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10397,
+        "username": "\u5ed6\u5764\u8070",
+        "phone": "0936117910",
+        "email": "laio95@yahoo.com.tw",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10398,
+        "username": "\u5433\u5bb6\u5c71",
+        "phone": "0933944587",
+        "email": "wudiator@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10399,
+        "username": "\u5f35\u66a2\u5ffb",
+        "phone": "0936162552",
+        "email": "jackcwy@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10400,
+        "username": "\u8449\u7f8e\u745b",
+        "phone": "0972610956",
+        "email": "r336338@yahoo.com",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10401,
+        "username": "\u9673\u6842\u6797",
+        "phone": "0932169511",
+        "email": "b.chen70200@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10402,
+        "username": "\u8a31\u79c0\u6708",
+        "phone": "0970802555",
+        "email": "show520168@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10403,
+        "username": "\u674e\u660e\u9702",
+        "phone": "0988218698",
+        "email": "ankara12599@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10404,
+        "username": "\u9673\u671d\u4efb-0970082045",
+        "phone": "0970082045",
+        "email": "crcfred9@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10405,
+        "username": "\u85cd\u660e\u59ee",
+        "phone": "0925639856",
+        "email": "blue.helen55@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10406,
+        "username": "\u5289\u7fa9\u798e",
+        "phone": "0937404121",
+        "email": "liu86152000@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10407,
+        "username": "\u62c9\u91cc\u9f8d",
+        "phone": "0989561913",
+        "email": "ittzuchiapi@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10408,
+        "username": "\u7a0b\u975c\u7f8e",
+        "phone": "0987327737",
+        "email": "may223251963@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10409,
+        "username": "Si_n15034",
+        "phone": "0921987860",
+        "email": "pfi0213@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10410,
+        "username": "\u5289\u6fdf\u7fbf",
+        "phone": "0931311001",
+        "email": "rex0124@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10411,
+        "username": "\u5289\u7fbf\u5ef7",
+        "phone": "093131101",
+        "email": "rex0124@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10412,
+        "username": "\u6797\u4ec1\u5091",
+        "phone": "0932393688",
+        "email": "jl_235@yahoo.com.tw",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10413,
+        "username": "\u738b\u5143\u6d77",
+        "phone": "0989561913",
+        "email": "ittzuchiapi@gmail.com",
+        "place": "\u6843\u5712",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10414,
+        "username": "\u5433\u842c\u667a",
+        "phone": "0911848423",
+        "email": "p06376@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10415,
+        "username": "\u674e\u80fd\u7f0e",
+        "phone": "0935089437",
+        "email": "coco99433@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10416,
+        "username": "\u8449\u6c34\u82ac",
+        "phone": "0932121275",
+        "email": "nancyye99@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10417,
+        "username": "\u6797\u8d77\u6210",
+        "phone": "0920406696",
+        "email": "curtiss168@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10418,
+        "username": "\u62c9\u62c9\u96c4",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10419,
+        "username": "\u738b\u6c34\u6c34",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10420,
+        "username": "\u738b\u706b\u706b",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10421,
+        "username": "\u738b\u571f\u571f",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10422,
+        "username": "\u738b\u6d0b\u6d0b",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10423,
+        "username": "\u7f85\u745e\u946b",
+        "phone": "0937283355",
+        "email": "kind55736@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10424,
+        "username": "\u9673\u5c0f\u5a1f",
+        "phone": "0921870936",
+        "email": "jane0916291503@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10425,
+        "username": "\u90b1\u93f8\u65b3",
+        "phone": "0910258636",
+        "email": "rubyer4494@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10426,
+        "username": "\u65b9\u60e0\u73cd",
+        "phone": "0931112765",
+        "email": "ax45612363@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10427,
+        "username": "\u80e1\u5a9b\u7504",
+        "phone": "0928284576",
+        "email": "june0607@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10428,
+        "username": "\u90b1\u4fca\u826f",
+        "phone": "0932117336",
+        "email": "chiu0302@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10429,
+        "username": "\u9322\u79cb\u7d05",
+        "phone": "0958791071",
+        "email": "amy300200@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10430,
+        "username": "helen chang",
+        "phone": "0925267058",
+        "email": "helen0131c@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10431,
+        "username": "\u6797\u5fb7\u6587",
+        "phone": "0930349760",
+        "email": "dwlin.lin@msa.hinet.net",
+        "place": "\u65b0\u7af9",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10432,
+        "username": "\u9673\u52c7\u8b00",
+        "phone": "0908930673",
+        "email": "hn0908210342@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10433,
+        "username": "\u5433\u5f6c\u798f",
+        "phone": "0931261140",
+        "email": "beef.wu@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10434,
+        "username": "\u65b9\u5947\u8f1d",
+        "phone": "0937997900",
+        "email": "fch.drums@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10435,
+        "username": "\u738b\u9e97\u80fd",
+        "phone": "0930953555",
+        "email": "debbie8360@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10436,
+        "username": "\u4f55\u85aa\u90c1\u6c81",
+        "phone": "0921178646",
+        "email": "LInda1268@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10437,
+        "username": "\u9673\u6dd1\u82ac",
+        "phone": "0937729254",
+        "email": "a093772954@gmail.c0m",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10438,
+        "username": "\u5f90\u6c38\u6751",
+        "phone": "0975750462",
+        "email": "k0975750462@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10439,
+        "username": "tr_m7738",
+        "phone": "0908578096",
+        "email": "gtrun101@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10440,
+        "username": "HSC1User",
+        "phone": "0911253058",
+        "email": "ymalisonym@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10441,
+        "username": "\u738b\u62c9\u96c4",
+        "phone": "0989561913",
+        "email": "we567841@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10442,
+        "username": "\u7f85\u91d1\u75300908578096",
+        "phone": "0908578096",
+        "email": "gtrun101@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10443,
+        "username": "LCt",
+        "phone": "0908578096",
+        "email": "gtrun101@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10444,
+        "username": "\u674e\u74a7\u5982",
+        "phone": "0933262944",
+        "email": "bella6828@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10445,
+        "username": "\u5353\u9e97\u771f",
+        "phone": "0933264957",
+        "email": "japcan8996@gmail.com",
+        "place": "\u65b0\u7af9",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10446,
+        "username": "TCGuest",
+        "phone": "0978624475",
+        "email": "TCGuest@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10447,
+        "username": "TCGuestt",
+        "phone": "0978624475",
+        "email": "TCGuestt@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10448,
+        "username": "\u53e4\u654f\u83ef",
+        "phone": "0939312886",
+        "email": "kmh51225@yahoo.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10449,
+        "username": "\u5289\u7f8e\u82f1",
+        "phone": "0952168896",
+        "email": "mandy721219@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10450,
+        "username": "\u6731\u82f1\u5f65",
+        "phone": "0921644308",
+        "email": "burberry2007usa@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10451,
+        "username": "\u90b1\u7f8e\u5a25",
+        "phone": "0908579855",
+        "email": "lily2003185@gmail.com",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10452,
+        "username": "\u9ec3\u7389\u6d25",
+        "phone": "0935973311",
+        "email": "lift1221@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10453,
+        "username": " \u8a31\u91d1\u798f",
+        "phone": "0933030707",
+        "email": "Liw1948@yah",
+        "place": "\u5317\u4e8c",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10454,
+        "username": "\u9ec3\u5927\u72d7",
+        "phone": "0988111222",
+        "email": "snoppdog@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10455,
+        "username": "\u5f35\u664f\u745c",
+        "phone": "0932256531",
+        "email": "yenyu817@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10456,
+        "username": "\u8b1d\u660e\u6649",
+        "phone": "0936453343",
+        "email": "ca1005824@yahoo.com.tw",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10457,
+        "username": "\u5433\u54c1\u4fd9",
+        "phone": "0905978300",
+        "email": "sisie.wu@gmail.com",
+        "place": "\u5317\u4e09",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10458,
+        "username": "\u5433\u96ea\u6167",
+        "phone": "0963099818",
+        "email": "jessie196049@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10459,
+        "username": "\u66fe\u4fee\u5b9c",
+        "phone": "02231115310920411257",
+        "email": "k09tseng@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u5408\u5fc3\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10460,
+        "username": "\u6c5f\u5b5f\u5029",
+        "phone": "0917412898",
+        "email": "waterlike211.1@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u548c\u6c23\u7ba1\u7406\u54e1"
+    },
+    {
+        "user_id": 10461,
+        "username": "\u912d\u535a\u4ec1",
+        "phone": "0922972109",
+        "email": "pojen2008@yahoo.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10462,
+        "username": "\u6d2a\u654f\u5091",
+        "phone": "0919999653",
+        "email": "ttza00478@tzuchi.org.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10463,
+        "username": "\u6e38\u79c0\u60e0",
+        "phone": "0929002909",
+        "email": "allisonyu@mail2000.com.tw",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10464,
+        "username": "\u53e4\u82e5\u73b2",
+        "phone": "0922484839",
+        "email": "jolingscchung@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    },
+    {
+        "user_id": 10465,
+        "username": "test222",
+        "phone": "0978624475",
+        "email": "test22@gmail.com",
+        "place": "\u5317\u4e00",
+        "group": "\u51fa\u73ed\u5fd7\u5de5"
+    }
+]

@@ -1,0 +1,37 @@
+/* index.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; /* 使用視窗的全高 */
+    margin: 0;
+    background-color: #f4f4f4; /* 輕灰色背景 */
+    font-family: 'Roboto', Arial, sans-serif; /* 使用無襯線字體，優先Roboto */
+}
+
+.header {
+    text-align: center;
+    width: 100%;
+}
+
+h1{
+    font-size: 55px;
+}
+
+#login-button {
+    background-color: #4285F4; /* Google 藍色 */
+    color: white;
+    border: none;
+    padding: 15px 30px; /* 增加按鈕的填充，讓它看起來更大 */
+    font-size: 18px; /* 增加字體大小 */
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16); /* 輕微的陰影 */
+    transition: transform 0.2s ease-in-out, background-color 0.3s, box-shadow 0.3s;
+}
+
+#login-button:hover {
+    background-color: #357AE8; /* 滑鼠懸浮時的顏色 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25); /* 滑鼠懸浮時增加陰影 */
+    transform: scale(1.05); /* 輕微放大 */
+}

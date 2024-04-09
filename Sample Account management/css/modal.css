@@ -1,0 +1,60 @@
+.modal {
+  display: none; /* 默認隱藏 */
+  position: fixed; /* 固定定位 */
+  z-index: 1000; /* 置於頁面內容之上，可根據需要調整 */
+  left: 0;
+  top: 0;
+  width: 100%; /* 全寬 */
+  height: 100%; /* 全高 */
+  overflow: auto; /* 啟用滾動條 */
+  background-color: rgba(0,0,0,0.4); /* 背景顏色，帶有透明度 */
+  animation: fadeIn 0.3s; /* 淡入效果 */
+}
+
+/* Modal 內容框 */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: 10% auto; /* 增強垂直定位 */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 40%; /* 可以根據需要調整寬度 */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 添加陰影 */
+  border-radius: 10px; /* 圓角邊框 */
+  animation: scaleIn 0.3s; /* 縮放淡入效果 */
+}
+
+/* 關閉按鈕 */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: -10px;
+  margin-right: -10px;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 淡入動畫 */
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+/* 縮放淡入動畫 */
+@keyframes scaleIn {
+  from {
+      transform: scale(0.7);
+      opacity: 0;
+  }
+  to {
+      transform: scale(1);
+      opacity: 1;
+  }
+}
